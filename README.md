@@ -3,7 +3,7 @@
 <img align="right" width="370" height="290" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA.gif">
 
 
-- 🔭 I’m currently studing BE specialized in CSE at **CARE college of engineering**
+- 🔭 I’m currently studing**BE(CSE)**
 
 - 🌱 I’m currently learning **DSA**
 
