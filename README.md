@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **tech**
 
-- 📫 How to reach me **ssindhuja2306@gmail.com**[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sindhuja-s-193798319)
-
+- 📫 How to reach me **ssindhuja2306@gmail.com**
 - ⚡ Fun fact **Smile you're amazing**
 
 <h3 align="left">Connect with me:</h3>
