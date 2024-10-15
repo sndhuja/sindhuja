@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) <h1 align="center">Hi 👋, I'm Sindhuja S</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 - 🔭 I’m currently studing BE specialized in CSE at **CARE college of engineering**
