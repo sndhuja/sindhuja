@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) <h1 align="center">Hi 👋, I'm Sindhuja S</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
-<img align="right" width="370" height="290" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBcQAA.gif">
+<img align="right" width="370" height="290" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2FIF2JdxzmyN4AAAAi%2Fcoding-girl.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&docid=RD5pEjQYneaF0M&tbnid=WrcH7DaEqebDOM&vet=12ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBoQAA..i&w=498&h=374&hcb=2&ved=2ahUKEwifkLyf8pCJAxXfS2wGHa1RATkQM3oECBoQAA.gif">
 
 
 - 🔭 I’m currently studing**BE(CSE)**
