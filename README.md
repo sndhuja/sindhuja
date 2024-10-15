@@ -1,7 +1,6 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]<h1 align="center">Hi 👋, I'm Sindhuja s</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=Animated%20Coding%20GIF%20girl&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966&imgrefurl=https%3A%2F%2Fgithub.com%2FKaoutherbo%2FKaoutherbo&docid=RxYJZ1SVyYjSbM&tbnid=lahMOKRfUGYsqM&vet=12ahUKEwir_-6i6ZCJAxVuwjgGHfQpLFcQM3oECFMQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwir_-6i6ZCJAxVuwjgGHfQpLFcQM3oECFMQAA">
-
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) <h1 align="center">Hi 👋, I'm Sindhuja S</h1>
+<h3 align="center">A passionate FullStack Developer </h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257">
 
 
 - 🔭 I’m currently studing BE specialized in CSE at **CARE college of engineering**
