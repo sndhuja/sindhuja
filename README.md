@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) <h1 align="center">Hi 👋, I'm Sindhuja S</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif%20girl%20for%20github%20profile&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fdurgeshsamariya%2Fawesome-github-profile-readme-templates%2Fblob%2Fmaster%2Ftemplates%2FMahdiiye.md&docid=eIN20axDQ5HggM&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwiX14SG8ZCJAxUW7DQHHUAhNmEQM3oECGcQAA..i&w=500&h=350&hcb=2&ved=2ahUKEwiX14SG8ZCJAxUW7DQHHUAhNmEQM3oECGcQAA">
 
 
 - 🔭 I’m currently studing BE specialized in CSE at **CARE college of engineering**
